@@ -3,6 +3,7 @@ b=input('Ikkinchi sonni kiriting')
 
 c=int(a) + int(b)
 print('Natija; ',c)
+print(c)
 
 
 
